@@ -2,13 +2,21 @@
 
 brawl stars V5 client open source
 
+
+
 #How to Use?
 only change ip and port
 and Create Server!
 
+
+
+
 #Requisites
 Ida Pro(only pc)
 Brain
+
+
+
 
 
 #Authors
@@ -16,8 +24,12 @@ Odyssey 64 (Main Developer)
 
 PrimoDEVHACC (he enable Debug menu)
 
+
+
+
 #Download Link
 https://drive.google.com/file/d/1LRx_49ceJqjTX8yi-pPreZ2V5_tyOWMC/view?usp=drivesdk
+
 
 
 
