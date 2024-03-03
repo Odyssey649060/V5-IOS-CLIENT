@@ -30,7 +30,7 @@ PrimoDEVHACC (he enable Debug menu)
 
 
 #Download Link
-https://drive.google.com/file/d/1LRx_49ceJqjTX8yi-pPreZ2V5_tyOWMC/view?usp=drivesdk
+https://www.mediafire.com/file/11c65laxhfc277l/V5.ipa/file
 
 
 
