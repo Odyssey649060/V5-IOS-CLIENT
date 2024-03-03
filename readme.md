@@ -6,6 +6,8 @@ brawl stars V5 client open source
 
 #How to Use?
 only change ip and port
+ip: 128.254.225.56
+port: 6732
 and Create Server!
 
 
